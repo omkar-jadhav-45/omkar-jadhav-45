@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Omkar Nanasaheb Jadhav
-**A passionate Cloud Engineer || Full Stack Java Developer|| Admin from India**
+**A passionate Fullstack || Full Stack Java Developer|| Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **omkarnjadhav6898.in@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** 
 - 🌱 **I’m currently learning:** openshift
