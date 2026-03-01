@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Omkar Jadhav! 
 
-### 🚀 Full Stack Developer | AI & LLM Engineer | Computer Science Enginner
+### 🚀 Full Stack Developer | AI Deve;oper | Computer Science Enginner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar045/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omkar)
